@@ -11,7 +11,7 @@ Blank — starter [Hugo](https://gohugo.io/) theme for developers. Use it to mak
 In your Hugo site `themes` directory, run:
 
 ```
-git clone https://github.com/vimux/blank
+git clone https://github.com/dianariyanto/blank
 ```
 
 Next, open `config.toml` in the base of the Hugo site and ensure the theme option is set to `blank`.
